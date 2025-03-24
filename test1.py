@@ -1,3 +1,5 @@
 def funct():
-	for in i range(5):
-		print i
+	for i in  range(5):
+		# print(i)
+		for j in range(i+1)
+			print(j)
